@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWeatherClientTool", "CustomWeatherClientTool.csproj", "{D770DB22-05BA-4C10-84AD-A26E62D7922C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{419D5BDC-EAD9-4907-BB85-3C0F40C1DC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D770DB22-05BA-4C10-84AD-A26E62D7922C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D770DB22-05BA-4C10-84AD-A26E62D7922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D770DB22-05BA-4C10-84AD-A26E62D7922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D770DB22-05BA-4C10-84AD-A26E62D7922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419D5BDC-EAD9-4907-BB85-3C0F40C1DC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419D5BDC-EAD9-4907-BB85-3C0F40C1DC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419D5BDC-EAD9-4907-BB85-3C0F40C1DC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419D5BDC-EAD9-4907-BB85-3C0F40C1DC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C9BB7DF-6886-41C1-B8C0-4E8FFCCB9FE6}
+	EndGlobalSection
+EndGlobal
